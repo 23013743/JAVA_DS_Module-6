@@ -38,9 +38,9 @@ public class CountOccurrencesRecursive {
         sc.close();
     }
 }
-```
 
-## Output:
+
+###  Output:
 <img width="985" height="540" alt="image" src="https://github.com/user-attachments/assets/397a8639-8e9d-4bef-bb30-0a95baa40eb9" />
 
 
